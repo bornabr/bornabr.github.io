@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - bornabr
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - bornabr/RSCNet
+  - bornabr/DCRNet
+  - bornabr/SuffixTree
+  - bornabr/tic-tac-toe-minimax
