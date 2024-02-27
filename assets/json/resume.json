@@ -58,28 +58,64 @@
 		"startDate": "2022-09",
 		"endDate": "Present",
 		"location": "Toronto, ON, Canada",
-		"summary": "Focus on Self-supervised Learning, Representation Learning, WiFi Sensing. Supervisor: Dr. Hina Tabassum",
+		"summary": "Focus on Self-supervised Learning, Representation Learning, WiFi Sensing.",
 		"highlights": [
-		  "Using self-supervised learning frameworks such as Siamese and Barlow Twins for Human activity recognition (HAR) WiFi sensing.",
-		  "Improving SOTA accuracy by 4% and outperforming supervised methods by 11% in few-shot learning setting.",
-		  "Joint HAR WiFi sensing classification and compression using dilated CNNs and autoencoders for cloud-based sensing applications."
+		  "Supervised by Dr. Hina Tabassum.",
+		  "Used self-supervised learning frameworks for Human activity recognition (HAR) WiFi sensing.",
+		  "Improved SOTA accuracy and outperformed supervised methods in few-shot learning settings.",
+		  "Achieved 97% accuracy on HAR with significant compression ratio improvements."
 		]
-	  }
-	],
-	"publications": [
-	  {
-		"name": "Robust Self-Supervised Learning Solutions for Wireless Sensing Applications",
-		"publisher": "In preparation",
-		"releaseDate": "",
-		"website": "",
-		"summary": "Authors: Borna Barahimi, Hina Tabassum"
 	  },
 	  {
-		"name": "RSCNet: Dynamic CSI Compression for Cloud-based WiFi Sensing",
-		"publisher": "Accepted to IEEE ICC 2024",
-		"releaseDate": "",
-		"website": "https://arxiv.org/abs/2402.04888",
-		"summary": "Authors: Borna Barahimi, Hakam Singh, Hina Tabassum, Omer Waqar, Mohammad Omer"
+		"company": "Niagara College - Toronto",
+		"position": "Computer Programming Instructor",
+		"startDate": "2024-01",
+		"endDate": "Present",
+		"location": "Toronto, ON, Canada",
+		"summary": "Lecturing on Mathematics for Computer Studies.",
+		"highlights": [
+		  "Prepared and delivered lectures.",
+		  "Developed teaching and evaluation materials."
+		]
+	  },
+	  {
+		"company": "University of Tehran",
+		"position": "Research Assistant",
+		"startDate": "2021-09",
+		"endDate": "2022-01",
+		"location": "Tehran, Iran",
+		"summary": "Focused on Semi-supervised Learning for Parkinson’s Disease Detection.",
+		"highlights": [
+		  "Supervised by Dr. Bagher BabaAli.",
+		  "Employed pre-trained self-supervised models for diagnosing PD using handwriting records."
+		]
+	  },
+	  {
+		"company": "VClinic",
+		"position": "Fullstack Developer",
+		"startDate": "2019-07",
+		"endDate": "2021-07",
+		"location": "Tehran, Iran",
+		"summary": "Development of an all-in-One platform for doctors and patients.",
+		"highlights": [
+		  "Developed key features such as appointment scheduling, virtual visits, and EHR.",
+		  "Built APIs with ExpressJS and frontend modules with ReactJS.",
+		  "Maintained servers, databases, and implemented CI/CD pipelines.",
+		  "Managed cybersecurity measures."
+		]
+	  },
+	  {
+		"company": "AE High School",
+		"position": "Robotics Programmer",
+		"startDate": "2016-10",
+		"endDate": "2019-07",
+		"location": "Tehran, Iran",
+		"summary": "Developing algorithms for RoboCup 2D Soccer Simulation League.",
+		"highlights": [
+		  "Designed algorithms for simulated multi-agent soccer simulations in C++.",
+		  "Taught programming to high school students.",
+		  "Participated in international competitions."
+		]
 	  }
 	],
 	"skills": [
