@@ -11,35 +11,52 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.Sc. in Computer Science, 2022 - 2024
+* B.S. in Computer Science, 2018 - 2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Aug 2024 -- present: Algorithm Designer
+  * Cognitive Systems Corp., Waterloo, ON, Canada
+  * Focus: Self-supervised Learning, Representation Learning, WiFi Sensing, Time-series
+  * Supervisor: Dr. Mohammad Omer
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Sep 2022 -- Present: Research Assistant
+  * York University, Toronto, ON, Canada
+  * Focus: Self-supervised Learning, Representation Learning, WiFi Sensing, Time-series
+  * Supervisor: Dr. Hina Tabassum
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jan 2024 -- Aug 2024: Computer Programming Instructor
+  * Niagara College - Toronto, ON, Canada
+  * Focus Delivering lectures on Mathematics and Statistics for Computer Studies.
+
+* Sep 2022 -- Present: Teaching Assistant
+  * York University, Toronto, ON, Canada
+  * Courses: Intro. to the Theory of Computation, Discrete Mathematics for Computer Science, Intro. to Computer Science and Programming
+
+* Aug 2020 -- Sep 2023: Head of Teaching Assistants
+  * Karyar College, Tehran, Iran
+  * Volunteer teaching and mentorship for unprivileged students in Computer Science
+
+* Sep 2021 -- Jan 2022: Research Assistant
+  * University of Tehran, Tehran, Iran
+  * Focus: Semi-supervised Learning for Parkinson’s Disease (PD) Detection
+  * Supervisor: Dr. Bagher BabaAli
+
+* Jul 2019 -- Jul 2021: Fullstack Developer
+  * VClinic, Tehran, Iran
+  * Focus: Development of an all-in-One platform for doctors and patients.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Core Languages:** Python, C++, JavaScript (NodeJS), SQL, MATLAB, R, Bash
+* **Machine Learning and AI**
+  * **Tools:** PyTorch, Tensorflow, Keras, JAX, NumPy, Pandas, Scikit-Learn, SciPy, Slurm
+  * **Generative AI:** Diffusion Models, VQ-VAE, GANs, Autoencoders
+* **Web Development:** ExpressJS, ReactJS, DevOps, WebRTC, Django
+* **Data Visualization Tools:** Seaborn, Matplotlib, RStudio
+* **Industry Knowledge:** Backend and Frontend Web Development, Software Engineering, DevOps, Agile, Object-Oriented Programming (OOP), Model-View-Controller (MVC), REST API, Design Thinking
+* **Miscellaneous:** Git, Linux, Shell (Bash/Zsh), MS Office 365, GSuite, Docker, MongoDB, PostgreSQL, Redis, LaTeX
 
 Publications
 ======
