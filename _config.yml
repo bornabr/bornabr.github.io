@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "borna.jpg"
   name             : "Borna Barahimi"
-  pronouns         : "he/him"  
+  pronouns         : "He/Him"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Toronto, ON, Canada"
-  employer         : "York University"
+  employer         : "York University, Cognitive Systems Corp."
   uri              : # URL
   email            : "bornab@yorku.ca" 
 
