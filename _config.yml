@@ -26,7 +26,8 @@ author:
   pronouns         : "He/Him"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Toronto, ON, Canada"
-  employer         : "York University, Cognitive Systems Corp."
+  employer         : "York University"
+  second_employer  : "Cognitive Systems Corp."
   uri              : # URL
   email            : "bornab@yorku.ca" 
 
