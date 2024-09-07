@@ -9,83 +9,97 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* M.Sc. in Computer Science, 2022 - 2024
-* B.S. in Computer Science, 2018 - 2022
+# Education
+---
+**M.Sc. in Computer Science**  
+_York University, 2022 - 2024_  
 
-Work Experience
-======
-* Aug 2024 -- present: Algorithm Designer
-  * Cognitive Systems Corp., Waterloo, ON, Canada
-  * Focus: Self-supervised Learning, Representation Learning, WiFi Sensing, Time-series
-  * Supervisor: Dr. Mohammad Omer
+**B.S. in Computer Science**  
+_University of Tehran, 2018 - 2022_ 
 
-* Sep 2022 -- Present: Research Assistant
-  * York University, Toronto, ON, Canada
-  * Focus: Self-supervised Learning, Representation Learning, WiFi Sensing, Time-series
-  * Supervisor: Dr. Hina Tabassum
+---
 
-* Sep 2021 -- Jan 2022: Research Assistant
-  * University of Tehran, Tehran, Iran
-  * Focus: Semi-supervised Learning for Parkinson’s Disease (PD) Detection
-  * Supervisor: Dr. Bagher BabaAli
+# Work Experience
+---
+### Algorithm Designer  
+**Cognitive Systems Corp.** – Waterloo, ON, Canada  
+_Aug 2024 – Present_  
+- Focus: Self-supervised Learning, Representation Learning, WiFi Sensing, Time-series  
+- Supervisor: Dr. Mohammad Omer  
 
-* Jul 2019 -- Jul 2021: Fullstack Developer
-  * VClinic, Tehran, Iran
-  * Focus: Development of an all-in-One platform for doctors and patients.
+### Research Assistant  
+**York University** – Toronto, ON, Canada  
+_Sep 2022 – Present_  
+- Focus: Self-supervised Learning, Representation Learning, WiFi Sensing, Time-series  
+- Supervisor: Dr. Hina Tabassum  
 
-* Oct 2016 – Jul 2019: Robotics Programmer
-  * AE High School, Tehran, Iran
-  * Building Algorithms for RoboCup 2D Soccer Simulation League
+### Research Assistant  
+**University of Tehran** – Tehran, Iran  
+_Sep 2021 – Jan 2022_  
+- Focus: Semi-supervised Learning for Parkinson’s Disease (PD) Detection  
+- Supervisor: Dr. Bagher BabaAli  
 
-Teaching Experience
-======
-* Jan 2024 -- Aug 2024: Computer Programming Instructor
-  * Niagara College - Toronto, ON, Canada
-  * Focus Delivering lectures on Mathematics and Statistics for Computer Studies.
+### Fullstack Developer  
+**VClinic** – Tehran, Iran  
+_Jul 2019 – Jul 2021_  
+- Developed an all-in-one platform for doctors and patients.  
 
-* Sep 2022 -- Present: Teaching Assistant
-  * York University, Toronto, ON, Canada
-  * Courses: Intro. to the Theory of Computation, Discrete Mathematics for Computer Science, Intro. to Computer Science and Programming
+### Robotics Programmer  
+**AE High School** – Tehran, Iran  
+_Oct 2016 – Jul 2019_  
+- Built algorithms for RoboCup 2D Soccer Simulation League.  
 
-* Aug 2020 -- Sep 2023: Head of Teaching Assistants
-  * Karyar College, Tehran, Iran
-  * Volunteer teaching and mentorship for unprivileged students in Computer Science
+---
 
-* Sep 2021 -- Feb 2022: Teaching Assistant
-  * University of Tehran, Tehran, Iran
-  * Courses: Intro. to the Theory of Computationß
+# Teaching Experience
+---
+### Computer Programming Instructor  
+**Niagara College** – Toronto, ON, Canada  
+_Jan 2024 – Aug 2024_  
+- Delivered lectures on Mathematics and Statistics for Computer Studies.  
 
-Skills
-======
-* **Core Languages:** Python, C++, JavaScript (NodeJS), SQL, MATLAB, R, Bash
-* **Machine Learning and AI**
-  * **Tools:** PyTorch, Tensorflow, Keras, JAX, NumPy, Pandas, Scikit-Learn, SciPy, Slurm
-  * **Generative AI:** Diffusion Models, VQ-VAE, GANs, Autoencoders
-* **Web Development:** ExpressJS, ReactJS, DevOps, WebRTC, Django
-* **Data Visualization Tools:** Seaborn, Matplotlib, RStudio
-* **Industry Knowledge:** Backend and Frontend Web Development, Software Engineering, DevOps, Agile, Object-Oriented Programming (OOP), Model-View-Controller (MVC), REST API, Design Thinking
-* **Miscellaneous:** Git, Linux, Shell (Bash/Zsh), MS Office 365, GSuite, Docker, MongoDB, PostgreSQL, Redis, LaTeX
+### Teaching Assistant  
+**York University** – Toronto, ON, Canada  
+_Sep 2022 – Present_  
+- Courses: Intro. to the Theory of Computation, Discrete Mathematics for Computer Science, Intro. to Computer Science and Programming  
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
+### Head of Teaching Assistants (Volunteer)  
+**Karyar College** – Tehran, Iran  
+_Aug 2020 – Sep 2023_  
+- Volunteer teaching and mentorship for unprivileged students in Computer Science  
+
+### Teaching Assistant  
+**University of Tehran** – Tehran, Iran  
+_Sep 2021 – Feb 2022_  
+- Courses: Intro. to the Theory of Computation  
+
+---
+
+# Skills
+---
+### **Core Languages**  
+Python, C++, JavaScript (NodeJS), SQL, MATLAB, R, Bash
+
+### **Machine Learning and AI**  
+- **Tools:** PyTorch, Tensorflow, Keras, JAX, NumPy, Pandas, Scikit-Learn, SciPy, Slurm  
+- **Generative AI:** Diffusion Models, VQ-VAE, GANs, Autoencoders  
+
+### **Web Development**  
+ExpressJS, ReactJS, DevOps, WebRTC, Django  
+
+### **Data Visualization Tools**  
+Seaborn, Matplotlib, RStudio  
+
+### **Industry Knowledge**  
+Backend & Frontend Web Development, Software Engineering, DevOps, Agile, Object-Oriented Programming (OOP), MVC, REST API, Design Thinking  
+
+### **Miscellaneous**  
+Git, Linux, Shell (Bash/Zsh), MS Office 365, GSuite, Docker, MongoDB, PostgreSQL, Redis, LaTeX  
+
+---
+
+# Publications
+---
+<ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-<!-- Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul> -->
-  
-<!-- Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-  
-<!-- Service and leadership
-======
-* Currently signed in to 43 different slack teams -->
