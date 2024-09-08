@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Below are some highlights from my CV.
+
+For more information, please see the PDF of my [CV]({{ site.baseurl }}/files/CV.pdf).
+
 # Education
 ---
 **M.Sc. in Computer Science**  
