@@ -16,6 +16,10 @@ Recently, my work has focused on contrastive learning and predictive coding fram
 
 ## News
 
+- **October 2024**: Our work "Context-Aware Predictive Coding: A Representation Learning Framework for WiFi Sensing" was accepted to be presented at the *NeurIPS 2024 5th Workshop on Self-Supervised Learning: Theory and Practice* in Vancouver, Canada, in December 2024.
+
+- **September 2024**: Our work "Context-Aware Predictive Coding: A Representation Learning Framework for WiFi Sensing"  was published in the top-tier *IEEE Open Journal of the Communications Society*.
+
 - **August 2024**: Started a new position as an Algorithm Designer at [Cognitive Systems Corp.](https://www.cognitivesystems.com/) working on cutting-edge WiFi sensing technologies!
 
 - **July 2024**: Defended my master's thesis, "Robust Representation Learning Solutions for Wireless Sensing Applications," at York University with 1 Conference paper published and 1 Journal article submitted and got nominated for the thesis prize!
